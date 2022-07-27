@@ -7,8 +7,10 @@ The URI pump-filter system has been developed to improve our sampling volume for
 *General overview of our team sampling with the pump-filter in Roger Williams Park, RI in 2022*
 
 ## Table of Contents
-[Technical Description](TECHNICALDESCRIPTION.md)
+[Technical Description](TECHNICALDESCRIPTION.md) - Description of the system.
 
-[Technical Verification](TECHNICALVERIFICATION.md)
+[Technical Verification](TECHNICALVERIFICATION.md) - Methods used to test the system.
 
-[Field Methods](FIELDMETHODS.md)
+[Field Methods](FIELDMETHODS.md) - Methods used to collect samples from the field.
+
+[Build log and bill of materials](BUILDLOG.md) - Build log and photos of the system, including bill of materials.

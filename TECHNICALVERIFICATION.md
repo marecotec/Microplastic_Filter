@@ -7,8 +7,8 @@ During conducting numerous trials (approximately 30 in total), many improvements
 ![General overview of our team sampling in Roger Williams Park, RI](Images/General_Overview_Image.jpeg)
 
 
-|           | Beads      | Fibers     |
-| --------- | ---------- | ---------- |
+|           | Beads      | Beads      | Beads     | Fibers    |
+| --------- | ---------- | ---------- |---------- |---------- |
 | Replicate | 355-425 μm | 150-180 μm | 15 μm | 658-675 μm |
 | 1         | 100        | 95.4       | 100 | 94.2 |
 | 2         | 100        | 94.6       | 96.7 | 94.3 |
