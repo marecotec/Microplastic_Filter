@@ -18,3 +18,5 @@ Below are a series of results from one of our later trials that ultimately drove
 | Mean      | 100        | 95.6       | 98.9 | 94.5 |
 
 *Validation trials of pump-filter seawater collection system using 3 sizes of fluorescent, polyethylene bead sizes in addition to polyester fibers. The number of fibers and beads used to seed the system ranged between 73 and 108 per particle type per replicate.*
+
+**The full operating procedure for the verification of the system can be found [here](Protocols/SOP_Pump-filter_spike_test.pdf)**
